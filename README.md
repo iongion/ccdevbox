@@ -18,6 +18,7 @@ Clients:
     https://github.com/trufflesuite/truffle
 
 Articles and tutuorials:
+
   https://hackernoon.com/getting-started-as-an-ethereum-web-developer-9a2a4ab47baf
   https://ethereum.org/greeter
   https://dappsforbeginners.wordpress.com/tutorials/introduction-to-development-on-ethereum/
